@@ -10,6 +10,10 @@ Website is hosted on heroku ----https://backendassgn.herokuapp.com/
 
 ## Available Scripts
 ---
+Initially install all node_modules by
+>npm install
+
+
 In the project directory you can run:
 
 >npm start
