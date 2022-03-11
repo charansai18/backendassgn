@@ -1,8 +1,6 @@
 const express = require('express');
 const mysql = require('mysql');
 const bodyparser = require('body-parser');
-const req = require('express/lib/request');
-const res = require('express/lib/response');
 
 var app = express();
 app.use(bodyparser.json());
